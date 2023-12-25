@@ -32,29 +32,29 @@
 ## 运行示例
 ### 模式一(键盘输入)：
 1.	通过File/Load Image(Ctrl+d)，选择需要的地图图片，导入地图。
-- <img src="./img/sl_1.1.png" align=center/>
+- <img src="./imgs/sl_1.1.png" align=center/>
  
 2.	选择Edit/keyboard Input(Ctrl+k)，切换至键盘输入模式，在终端窗口输入点的个数，点坐标，比例尺，即可显示测量区域，图像面积，实际面积。
-- <img src="./img/sl_1.2.png" align=center/>
-- <img src="./img/sl_1.3.png" align=center/>
+- <img src="./imgs/sl_1.2.png" align=center/>
+- <img src="./imgs/sl_1.3.png" align=center/>
  
 ### 模式二(文件输入)：
 1.	在上一个样例结束之后，通过File/Save(Ctrl+s)，输入名称，保存当前地图，坐标点，比例尺，面积数据。
-- <img src="./img/sl_2.1.png" />
+- <img src="./imgs/sl_2.1.png" />
 
 2.	通过File/Open(Ctrl+o)，可以选择本电脑已经保存的样例数据，即可显示测量区域，图像面积，实际面积。(运行结果与键盘输入模式一致)
-- <img src="./img/sl_2.2.png" />
+- <img src="./imgs/sl_2.2.png" />
 
 
 
 ### 模式三(鼠标输入)：
 1.	通过File/Load Image(Ctrl+d)，选择需要的地图图片，导入地图。
 2.	通过Edit/Measure(Ctrl+1)，设置比例尺。在图形化界面输入实际距离。
-- <img src="./img/sl_3.1.png" />
+- <img src="./imgs/sl_3.1.png" />
 
 3. 然后在地图上通过鼠标点击，移动，松开，设置图上距离。十字校准如下图。
-- <img src="./img/sl_3.2.png" />
+- <img src="./imgs/sl_3.2.png" />
 4.	选择Edit/Draw Polygon(Ctrl+2)，然后通过鼠标左键点击，选择顶点，绘制所需测量的的区域，选择过程中已确定直线为蓝色实线，未确定直线为红色虚线。
-- <img src="./img/sl_3.3.png" />
+- <img src="./imgs/sl_3.3.png" />
 5.	右键结束绘图，即可显示测量区域，图像面积，实际面积。
-- <img src="./img/sl_3.4.png" />
+- <img src="./imgs/sl_3.4.png" />
