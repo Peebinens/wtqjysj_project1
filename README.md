@@ -26,7 +26,7 @@
 ## 运行示例
 ### 模式一(键盘输入)：
 1.	通过File/Load Image(Ctrl+d)，选择需要的地图图片，导入地图。
-   <img src="./imgs/sl_1.1.png">
+   <img src="./img/sl_1.1.png">
  
 3.	选择Edit/keyboard Input(Ctrl+k)，切换至键盘输入模式。
  
