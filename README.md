@@ -26,11 +26,11 @@
 ## 运行示例
 ### 模式一(键盘输入)：
 1.	通过File/Load Image(Ctrl+d)，选择需要的地图图片，导入地图。
-- <img src="./img/sl_1.1.png" align=center/>
+- <img src="./img/sl_1.1.png" width=1000 align=center/>
  
 2.	选择Edit/keyboard Input(Ctrl+k)，切换至键盘输入模式，在终端窗口输入点的个数，点坐标，比例尺，即可显示测量区域，图像面积，实际面积。
 - <img src="./img/sl_1.2.png" align=center/>
-- <img src="./img/sl_1.3.png" align=center/>
+- <img src="./img/sl_1.3.png" width=1000 align=center/>
  
 ### 模式二(文件输入)：
 1.	在上一个样例结束之后，通过File/Save(Ctrl+s)，输入名称，保存当前地图，坐标点，比例尺，面积数据。
